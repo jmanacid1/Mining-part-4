@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 158ad0ffd548b46449dd6750e10cafaa
+timeCreated: 1443634767
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrefab: {fileID: 114076, guid: d2855218175dc4a679a9e3a89c6705e6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
